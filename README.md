@@ -1,17 +1,18 @@
-Vitaly Solevar
+# Vitaly Solevar
+
 AI Engineering • Automation • Cybersecurity
 
 Founder of Solevar-Lab and Solevar-Studio.
 
-Ecosystem
-Solevar-Lab
+## Ecosystem 
+### Solevar-Lab 
 Research and engineering laboratory focused on:
 
 AI Engineering
 Cybersecurity
 AI Act
 Workflow Automation
-Solevar-Studio
+### Solevar-Lab 
 Practical products and services built from Solevar-Lab research.
 
 Focus:
