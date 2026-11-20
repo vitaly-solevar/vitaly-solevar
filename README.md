@@ -12,7 +12,7 @@ AI Engineering
 Cybersecurity
 AI Act
 Workflow Automation
-### Solevar-Lab 
+### Solevar-Studio
 Practical products and services built from Solevar-Lab research.
 
 Focus:
